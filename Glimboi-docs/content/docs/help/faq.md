@@ -21,6 +21,6 @@ GlimBoi is free and open source.
 
 GlimBoi can run on windows and linux devices. On average it uses about 100mb of RAM. The CPU usage will be very low.
 
-## Why is my viewer not earning points/quotes/stats?
+## Why is my viewer not earning points for watchtime?
 
-You must add your viewers as users in the bot. Any viewer can add themselves by typing !user new NAME in chat. This allows the bot to store data about them. 
+To save resources Glimboi distributes points/watchtime every 15 minutes. This means that if you check your watchtime at 5 mintues it will be the same at 10 minutes. At 15 minutes all 15 minutes are added.

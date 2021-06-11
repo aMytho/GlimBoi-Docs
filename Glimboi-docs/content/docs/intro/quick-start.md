@@ -15,24 +15,24 @@ toc: true
 
 ## User Controls
 
-GlimBoi must add a viewer as a user to store data on them. This helps the bot to save disk space and resources. Users can be added and removed at any time. 
+GlimBoi must add a viewer as a user to store data on them. You can do this manually or let the bot automatically detect new users (ran every 15 minutes. Users can be added and removed at any time.
 
 ### Adding Users
 
-You can add users from the users page. You can also add them by typing the following in chat -
+You can add users from the users page. You can also add them by typing the following in chat (permissions dependent) -
 - !user new NAME
 - !user add NAME
 
 
 ### Removing Users
 
-You can remove users from the users page. You can also remove them by typing the following in chat - 
+You can remove users from the users page. You can also remove them by typing the following in chat (permissions dependent) -
 - !user del NAME * This feature is not yet implemented, delete a user in the GUI *
 - !user remove NAME * This feature is not yet implemented, delete a user in the GUI *
 
 ### Editing Users
 
-You can edit some user properties from the users page. Currently you can only edit the amount of points for the user. There is no method to edit users in chat.
+You can edit some user properties from the users page. Currently you can only edit the amount of points for the user and their rank. There is no method to edit users in chat.
 
 ## User Properties
 
@@ -52,7 +52,7 @@ Quotes are saved chat messages the user has sent. Anyone can add a quote to any 
 
 ### Watch Time
 
-The amount of time in minutes a user has been active in chat. Being active requires 1 message every 15 minutes. Note that watch time is added in blocks of 15 minutes. This means you can have 15, 30, 45, 60, etc. minutes of watch time. 
+The amount of time in minutes a user has been active in chat. Being active requires 1 message every 15 minutes. Note that watch time is added in blocks of 15 minutes. This means you can have 15, 30, 45, 60, etc. minutes of watch time.
 
 ### Team
 
@@ -60,7 +60,7 @@ The team the user belongs to. This feature is not yet implemented.
 
 ### Role
 
-The users rank. This feature is not yet implemented. 
+The users rank. This feature is not yet implemented.
 
 ### Link
 
