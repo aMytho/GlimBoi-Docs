@@ -15,7 +15,7 @@ toc: true
 
 ## Events Overview
 
-Glimboi can start various events. Events can be joined by viewers in chat. Multiple events can run at the same time.
+Glimboi can start various events. Events can be joined by viewers in chat. Multiple events can run at the same time. All events have settings on the event page to modify for your stream. Enjoy!
 
 ## Raffle
 
@@ -53,3 +53,39 @@ Bankheist works nearly the same as other bankheist games. Start with:
 Others can join with !bankheist
 
 You need at least 2 members to begin. Once started random events will occur. Some will be more risky than others. At the end of the heist all members who escaped will be rewarded with channel currency.
+
+## Giveaway
+
+Works the same as raffle but no reward is given and there is no cost to enter.
+
+!giveaway
+
+Others can join with !enter
+
+One user is picked to win the giveaway. Good luck!
+
+## Glimroyale
+
+A fight between all the users in your chat! !glimroyale WAGER .
+
+Users enter with !join
+
+Each user fights 1 other user. This continues until only 1 is left. The results are announced depending on the duration. There are a variety of possible outcomes, but it is all internal. This may change in a future release.
+
+## Duel
+
+Fight one other user and wager points! !duel USER WAGER .They must accept the duel in chat.
+
+The winner gains all the points.
+
+## 8Ball
+
+Ask the magic 8 ball any question. It always has an aswer.
+
+!8ball QUESTION?
+
+## Gamble
+
+!gamble WAGER
+
+Win or lose points based on the outcome.
