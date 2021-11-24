@@ -13,18 +13,13 @@ weight: 100
 toc: true
 ---
 
-## Beta Notice
-
-
-GlimBoi is in beta. There will be bugs and other issues. I will issue patches for any issues found as quickly as possible.
-
-Please be patient :)
-
 ## Download
 
 [Releases Page](https://github.com/aMytho/GlimBoi/releases/latest)
 
-Start by downloading the installation file for your plaltform (.exe for windows and .deb for linux). Windows users can run the .exe file and choose where the bot will be installed. Linux users will need a package manager that can extract .deb files. GDebi will work for this.
+Start by downloading the installation file for your plaltform (.exe for windows and .deb for linux). Windows users can run the .exe file and choose where the bot will be installed. Linux users will need a package manager that can run .deb files. GDebi will work for this.
+
+> Windows users will likely see a warning since Glimboi is not registered with the Windows system.
 
 
 ### Authorization
@@ -36,10 +31,9 @@ Once logged in you can go back to the bot. You can head to the chat page and sta
 When you authorized the bot you got an access token. This token lasts for 1 hour. When it expires the bot should automatically refresh it. If you cannot get something to work you likely need to press the refresh token button or authorize again on the homepage.
 
 Congratulations - You have completed the auth process!
-You can now use GlimBoi to its full potential. This process may be changed after the official release.
+You can now use GlimBoi to its full potential.
 
-
-## Help
+### Help
 
 Need some assistance? You can recieve support at -
 - [Twitter DM](https://twitter.com/MythoGM)

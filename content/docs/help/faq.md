@@ -24,3 +24,7 @@ GlimBoi can run on windows and linux devices. On average it uses about 100mb of 
 ## Why is my viewer not earning points for watchtime?
 
 To save resources Glimboi distributes points/watchtime every 15 minutes. This means that if you check your watchtime at 5 mintues it will be the same at 10 minutes. At 15 minutes all 15 minutes are added.
+
+## How do I resize the bot?
+
+Click and drag the blue navigation bar on the top of the screen. Move the window down. Then click on the edges of the window and resize normally.

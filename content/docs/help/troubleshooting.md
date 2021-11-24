@@ -17,6 +17,12 @@ toc: true
 
 Usually a simple restart fixes the problem. Reloading the bot may prove helpful.
 
+## Why does the bot disconnect?
+
+Good question. When I figure out why I'll be sure to fix it.
+
+Jokes aside I've been working on this bug for months. It is annoying, but the bot will now auto rejoin if disconnected.
+
 
 ## Why are commands not working?
 
@@ -31,10 +37,6 @@ This feature does not update frequently. I have done this to help the Glimesh AP
 Good question! Although most errors simply log an error to the console (shift+ctrl+i) some errors crash glimboi. I have tried to catch most of these bugs but some will get through. If your bot crashes please contact me with info about what you were doing. You can also send me a log of the main process. It is located in %appdata%/Roaming/GlimBoi/logs/main.txt
 
 I will get a crash reporter in the future!
-
-## How do I resize the bot?
-
-Click and drag the blue navigation bar on the top of the screen. Move the window down. Then click on the edges of the window and resize normally.
 
 ## How do I uninstall GlimBoi?
 

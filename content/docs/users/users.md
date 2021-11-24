@@ -1,5 +1,5 @@
 ---
-title: "Users"
+title: "User Controls"
 description: "Doc explaining how users work in GlimBoi."
 lead: "Store data about your viewers for quotes, points, games, and more!"
 date: 2020-11-16T13:59:39+01:00
@@ -8,14 +8,14 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "intro"
-weight: 120
+    parent: "Users"
+weight: 5
 toc: true
 ---
 
-## User Controls
+## Users
 
-GlimBoi must add a viewer as a user to store data on them. You can do this manually or let the bot automatically detect new users (ran every 15 minutes. Users can be added and removed at any time.
+GlimBoi must add a viewer as a user to store data on them. You can do this manually or let the bot automatically detect new users every 15 minutes. Users can be added and removed at any time.
 
 ### Adding Users
 
@@ -27,12 +27,12 @@ You can add users from the users page. You can also add them by typing the follo
 ### Removing Users
 
 You can remove users from the users page. You can also remove them by typing the following in chat (permissions dependent) -
-- !user del NAME * This feature is not yet implemented, delete a user in the GUI *
-- !user remove NAME * This feature is not yet implemented, delete a user in the GUI *
+- !user del NAME
+- !user remove NAME
 
 ### Editing Users
 
-You can edit some user properties from the users page. Currently you can only edit the amount of points for the user and their rank. There is no method to edit users in chat.
+You can edit some user properties from the users page. Currently you can only edit ranks, points, and watchtime. There is no method to edit users in chat.
 
 ## User Properties
 
@@ -44,11 +44,11 @@ The username of the user.
 
 ### Points
 
-An amount of currency. A user will earn a set amount when created. They earn more currency every 15 minutes if they are active in chat.
+An amount of currency. A user will earn a set amount when created. They earn more currency every 15 minutes if they are active in chat. See [Currency System](/docs/users/points)
 
 ### Quotes
 
-Quotes are saved chat messages the user has sent. Anyone can add a quote to any user. A random quote can be returned with the !quote command.
+Quotes are saved chat messages the user has sent. Anyone can add a quote to any user. See [quotes](/docs/users/quotes)
 
 ### Watch Time
 
@@ -58,10 +58,12 @@ The amount of time in minutes a user has been active in chat. Being active requi
 
 The team the user belongs to. This feature is not yet implemented.
 
-### Role
+### Rank
 
-The users rank. This feature is not yet implemented.
+A specific rank to group users. Default ranks are users, mods, and Streamers. You can also create custom ranks and change permissions. See [Ranks](/docs/users/ranks)
 
 ### Link
 
-The link to the users channel.
+The link to the users channel on Glimesh.
+
+<img src="/docs/users/userlist.png" class="border-0 figure-img img-fluid blur-up lazyautosizes lazyloaded">

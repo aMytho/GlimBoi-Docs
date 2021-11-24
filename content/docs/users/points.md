@@ -8,10 +8,13 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "intro"
+    parent: "Users"
 weight: 140
 toc: true
 ---
+
+<img src="/docs/users/pointsleaderboard.png" class="border-0 figure-img img-fluid blur-up lazyautosizes lazyloaded">
+
 
 ## Currency Overview
 

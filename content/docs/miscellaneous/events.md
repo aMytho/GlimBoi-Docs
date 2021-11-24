@@ -6,9 +6,9 @@ date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
-menu: 
+menu:
   docs:
-    parent: "intro"
+    parent: "Miscellaneous"
 weight: 130
 toc: true
 ---
@@ -19,16 +19,16 @@ Glimboi can start various events. Events can be joined by viewers in chat. Multi
 
 ## Raffle
 
-Glimboi can start a raffle. The bot will pick one winner. A raffle can be started on the events page or by typing !raffle in chat. Viewers can enter the raffle with !enter . You can view the list of participants on the events page. It will live update. After a minute has passed Glimboi will announce the winner to chat. The winner can also be viewed on the events page if it is currently open. 
+Glimboi can start a raffle. The bot will pick one winner. A raffle can be started on the events page or by typing !raffle in chat. Viewers can enter the raffle with !enter . You can view the list of participants on the events page. It will live update. After a minute has passed Glimboi will announce the winner to chat. The winner can also be viewed on the events page if it is currently open.
 *Note that if you leave the events page the winner will be removed!*
 
 ## Poll
 
 Glimboi can poll the chat to get viewer feedback. A poll can be started from the GUI. Enter the question and any options. Polls can also be started from chat.
 
-!poll QUESTION? option 1 | option 2 | option 3 . 
+!poll QUESTION? option 1 | option 2 | option 3 .
 
-Ensure that you end the question with a ? and separate the choices with | . 
+Ensure that you end the question with a ? and separate the choices with | .
 
 You can view the results live on the events page. The results will be sent to chat at the end of the poll.
 
@@ -80,7 +80,7 @@ The winner gains all the points.
 
 ## 8Ball
 
-Ask the magic 8 ball any question. It always has an aswer.
+Ask the magic 8 ball any question. It always has an answer.
 
 !8ball QUESTION?
 
