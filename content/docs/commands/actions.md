@@ -43,6 +43,9 @@ Play a image/GIF in the media overlay. You must add the image/GIF on the media p
 
 This action can interface with OBS and do various things. This requires [OBS Websocket](https://github.com/obsproject/obs-websocket/releases/tag/4.9.1) installed. View our page on this [here](/docs/integrations/obswebsocket).
 
+#### Points
+
+Adds or removes points from a user. [Variables](/docs/commands/variables) are supported.
 #### Read File
 
 Reads a file on your PC and stores the output to a variable.
