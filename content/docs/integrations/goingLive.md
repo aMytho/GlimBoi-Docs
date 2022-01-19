@@ -15,7 +15,7 @@ toc: true
 
 ## Going-Live Announcements
 
-Glimboi can notify your Discord and Guilded servers when you go live. You must have the permissions to create a webhook in the server. You can notify both a Discord and Guilded server at the same time however only one of each type is supported.
+Glimboi can notify your Discord, Guilded, and Twitter servers when you go live. You must have the permissions to create a webhook in the server. You can notify both a Discord and Guilded server at the same time however only one of each type is supported.
 
 ### Discord
 
@@ -43,3 +43,9 @@ The bottom option asks for confirmation before sending the webhook. We highly su
 Save your settings when finished.
 
 <img src="/docs/integrations/guilded.png" class="border-0 figure-img img-fluid blur-up lazyautosizes lazyloaded">
+
+## Twitter
+
+Navigate to the Integrations page. Click on the pink generate link. A link will open in your default browser. You need to approve the permissions. Once approved you can begin using the Twitter features.
+
+Note that you are solely responsible for anything sent from your Twitter account. If a viewer uses the Tweet command action and sends a message you are responsible for whatever was sent. Use caution when adding Tweet Command Actions.
