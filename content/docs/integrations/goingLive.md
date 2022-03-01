@@ -15,7 +15,7 @@ toc: true
 
 ## Going-Live Announcements
 
-Glimboi can notify your Discord, Guilded, and Twitter servers when you go live. You must have the permissions to create a webhook in the server. You can notify both a Discord and Guilded server at the same time however only one of each type is supported.
+Glimboi can notify your Discord, Guilded, Matrix, and Twitter servers when you go live. You must have the permissions to create a webhook in the server. You can notify both a Discord and Guilded server at the same time however only one of each type is supported.
 
 ### Discord
 
@@ -43,6 +43,16 @@ The bottom option asks for confirmation before sending the webhook. We highly su
 Save your settings when finished.
 
 <img src="/docs/integrations/guilded.png" class="border-0 figure-img img-fluid blur-up lazyautosizes lazyloaded">
+
+### Matrix
+
+Matrix integration requires an access token and a room ID. These can be accessed from the element UI. **Keep your access token private**
+
+Your access token can be accessed by going to the *help and about* section. Scroll to the bottom and click to view your token.
+<img src="/docs/integrations/matrixToken.png" class="border-0 figure-img img-fluid blur-up lazyautosizes lazyloaded">
+
+The room ID must be accessed from the room settings. Open the settings for the room and view the advanced section. Copy your room ID.
+<img src="/docs/integrations/matrixRoom.png" class="border-0 figure-img img-fluid blur-up lazyautosizes lazyloaded">
 
 ## Twitter
 
