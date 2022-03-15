@@ -89,3 +89,23 @@ Ask the magic 8 ball any question. It always has an answer.
 !gamble WAGER
 
 Win or lose points based on the outcome.
+
+## Queue
+
+This is a generic queue system. The most common use is to allow viewers to join your game in an organized manner. You can limit users by points and rank. You can sent a rank to control the queue from chat.
+
+!queue : Starts the queue.
+
+!queue stop : Stops the queue.
+
+!queue reset : Resets the queue.
+
+!queue add USER : Adds a user to the queue.
+
+!queue remove USER : Removes a user from the queue.
+
+!queue progress : Progresses the queue.
+
+!queue next : Returns the next user in the queue.
+
+!queue length : Returns the length of the queue.

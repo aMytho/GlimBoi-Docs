@@ -39,6 +39,10 @@ Ban a user from Glimesh chat. The bot account **must** have the permission to ba
 
 Play a image/GIF in the media overlay. You must add the image/GIF on the media page before Glimboi can play it. The media overlay must be setup and running in OBS.
 
+### Matrix
+
+Send a message to the Matrix (discord alternative). You must have the Matrix account information listed in the Integrations Page.
+
 #### OBSWebSocket
 
 This action can interface with OBS and do various things. This requires [OBS Websocket](https://github.com/obsproject/obs-websocket/releases/tag/4.9.1) installed. View our page on this [here](/docs/integrations/obswebsocket).
