@@ -15,7 +15,7 @@ toc: true
 
 ### Basic Info
 
-Commands work the same as any other chatbot. A viewer types !commandName in chat and a script is ran. This script is divided into "actions". Actions are instructions for the command. Commands are created on the commands page or from chat using the syntax -
+Commands work the same as any other chatbot. When a command is activated its actions will run. Actions are instructions for the command. Commands are created on the commands page or from chat using the syntax -
 
 - !command add !NAME RESPONSE
 - !command new !NAME RESPONSE
@@ -25,6 +25,15 @@ Commands work the same as any other chatbot. A viewer types !commandName in chat
 - !cmd del !NAME
 
 *Adding commands from chat adds the ChatMessage action.*
+
+### Triggers
+
+Triggers are what will activate your command. A command can have any amount of triggers. The following triggers exist:
+
+- ChatMessage: Runs when a specified message in sent in the format of !TRIGGER_NAME
+- Follower: Runs when a user follows the stream.
+- Welcome: Runs when a user speaks in chat for the first time that stream.
+- - Constraint: Only welcome a specific user or every user.
 
 ### Actions
 
@@ -60,4 +69,8 @@ If the command has repeat enabled it will be added to the repeat list. This list
 
 #### Remove Trigger
 
-This setting allows you to delete the trigger that actived the command (!cmdname). The bot must have delete message mod setting on Glimesh. The trigger will be deleted when all of the actions have finished running.
+This setting allows you to delete the trigger that actived the command (!cmdname). The bot must have delete message mod setting on Glimesh. The trigger will be deleted when all of the actions have finished running. This only affects chatmessage triggers.
+
+### Status
+
+Determines if the command is allowed to run.
