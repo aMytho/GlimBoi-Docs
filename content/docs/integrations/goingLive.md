@@ -56,6 +56,8 @@ The room ID must be accessed from the room settings. Open the settings for the r
 
 ## Twitter
 
-Navigate to the Integrations page. Click on the pink generate link. A link will open in your default browser. You need to approve the permissions. Once approved you can begin using the Twitter features.
+**Twitter is no longer supported**
 
-Note that you are solely responsible for anything sent from your Twitter account. If a viewer uses the Tweet command action and sends a message you are responsible for whatever was sent. Use caution when adding Tweet Command Actions.
+- - -
+Twitter has decided to make their API a paid service. As a result, I can no longer provide API access for Glimboi. All features relating to twitter have been disabled. I may look into letting the user add their own keys. For now, all we can do is wait and see if the decision will be reversed.
+- - -
