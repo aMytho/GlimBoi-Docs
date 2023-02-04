@@ -288,8 +288,10 @@ The bottom option asks for confirmation before sending the webhook. We highly su
 \u003cp\u003eThe room ID must be accessed from the room settings. Open the settings for the room and view the advanced section. Copy your room ID.
 \u003cimg src="/docs/integrations/matrixRoom.png" class="border-0 figure-img img-fluid blur-up lazyautosizes lazyloaded"\u003e\u003c/p\u003e
 \u003ch2 id="twitter"\u003eTwitter\u003c/h2\u003e
-\u003cp\u003eNavigate to the Integrations page. Click on the pink generate link. A link will open in your default browser. You need to approve the permissions. Once approved you can begin using the Twitter features.\u003c/p\u003e
-\u003cp\u003eNote that you are solely responsible for anything sent from your Twitter account. If a viewer uses the Tweet command action and sends a message you are responsible for whatever was sent. Use caution when adding Tweet Command Actions.\u003c/p\u003e
+\u003cp\u003e\u003cstrong\u003eTwitter is no longer supported\u003c/strong\u003e\u003c/p\u003e
+\u003chr\u003e
+\u003cp\u003eTwitter has decided to make their API a paid service. As a result, I can no longer provide API access for Glimboi. All features relating to twitter have been disabled. I may look into letting the user add their own keys. For now, all we can do is wait and see if the decision will be reversed.\u003c/p\u003e
+\u003chr\u003e
 `},{id:12,href:"https://glimboi.com/docs/users/ranks/",title:"Ranks \u0026 Roles",description:"Doc explaining the rank system",content:`\u003ch2 id="ranks-overview"\u003eRanks Overview\u003c/h2\u003e
 \u003cp\u003eA rank is a way to group users. You can use the default ranks or create custom ones. Below lists the default ranks. Capitalization does matter.\u003c/p\u003e
 \u003cul\u003e
@@ -345,6 +347,10 @@ The bottom option asks for confirmation before sending the webhook. We highly su
 \u003cp\u003eReads a file on your PC and stores the output to a variable.\u003c/p\u003e
 \u003ch4 id="timeout-user"\u003eTimeout User\u003c/h4\u003e
 \u003cp\u003eTime out a user on Glimesh. You can choose a short (5 min) or long (15 min) duration. \u003ca href="/docs/commands/variables"\u003eVariables\u003c/a\u003e are supported. Use with caution.\u003c/p\u003e
+\u003ch4 id="tweet"\u003eTweet\u003c/h4\u003e
+\u003cp\u003eThis action has been disabled since the Twitter API is now a paid service. Sorry!\u003c/p\u003e
+\u003ch4 id="update-stream-info"\u003eUpdate Stream Info\u003c/h4\u003e
+\u003cp\u003eThis action allows you to modify your stream title from a command. You must have authorized the bot with the new permission for this to work. Max length is 255 characters.\u003c/p\u003e
 \u003ch4 id="video"\u003eVideo\u003c/h4\u003e
 \u003cp\u003ePlay a video in the media overlay. You must add the video on the media page before Glimboi can play it. The media overlay must be setup and running in OBS.\u003c/p\u003e
 \u003ch4 id="wait"\u003eWait\u003c/h4\u003e
