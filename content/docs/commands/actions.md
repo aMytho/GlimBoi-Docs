@@ -58,6 +58,14 @@ Reads a file on your PC and stores the output to a variable.
 
 Time out a user on Glimesh. You can choose a short (5 min) or long (15 min) duration. [Variables](/docs/commands/variables) are supported. Use with caution.
 
+#### Tweet
+
+This action has been disabled since the Twitter API is now a paid service. Sorry!
+
+#### Update Stream Info
+
+This action allows you to modify your stream title from a command. You must have authorized the bot with the new permission for this to work. Max length is 255 characters. 
+
 #### Video
 
 Play a video in the media overlay. You must add the video on the media page before Glimboi can play it. The media overlay must be setup and running in OBS.
