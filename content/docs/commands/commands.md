@@ -43,7 +43,7 @@ A full list of actions can be found [here](/docs/commands/actions)
 
 ### Settings
 
-Settings are properties for your commands. You can restrict thier usage by points or rank. You can also add cooldowns and set a command to run on a set interval.
+Settings are properties for your commands. You can restrict their usage by points or rank. You can also add cooldowns and set a command to run on a set interval.
 
 #### Points
 

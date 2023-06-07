@@ -30,17 +30,17 @@ Click on the chat page. Click "add new"
 
 ### Step 3
 
-Enter the name of the channel that you want to join. Note that if you have a bot account you still need to join the streamer chat, **not** the bot chat. This is the #1 casue of issues in Glimboi. Join the right channel!
+Enter the name of the channel that you want to join. Note that if you have a bot account you still need to join the streamer chat, **not** the bot chat. This is the #1 cause of issues in Glimboi. Join the right channel!
 
 ### Moving on...
 
-Glimboi will save every channel you join. You can save an unlimited amount of channels. One channel can be set to autojoin when you load the chat page. Channels can also be removed.
+Glimboi will save every channel you join. You can save an unlimited amount of channels. One channel can be set to auto-join when you load the chat page. Channels can also be removed.
 
-Although you can join any channel you are still responsible for what your bot does. The bot is still a Glimesh account, you can be banned just like any other user.
+Although you can join any channel, you are still responsible for what your bot does. The bot is still a Glimesh account. You can be banned just like any other user.
 
 ### Help
 
-Need some assistance? You can recieve support at -
+Need some assistance? You can receive support at -
 - [Twitter DM](https://twitter.com/MythoGM)
 - Discord DM Mytho#1108
 - [Glimesh.tv/Mytho](https://glimesh.tv/Mytho)

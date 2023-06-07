@@ -21,4 +21,4 @@ This feature must be enabled and a message must be set to work properly. You can
 
 Save your settings when finished.
 
-> As spam protection the Glimesh API limits a follower message to once per 6 hours. This prevents a user from following and refollowing to spam the chat with follow messages.
+> As spam protection the Glimesh API limits a follower message to once per 6 hours. This prevents a user from following and re-following to spam the chat with follow messages.

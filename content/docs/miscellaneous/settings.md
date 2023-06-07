@@ -21,7 +21,7 @@ Glimboi has a few settings to help you customize the bot for your stream.
 
 ### Health Reminder
 
-If enabled Glimboi will remind you to stretch, drink water, and take a break if neccassary. You can set the interval or turn it off completly.
+If enabled Glimboi will remind you to stretch, drink water, and take a break if necessary. You can set the interval or turn it off completely.
 
 ### Log Messages
 
@@ -35,7 +35,7 @@ Every command can be repeatable. One random repeatable command is sent to chat o
 
 ## Repeat Protection
 
-This setting helps to prevent the bot from spamming the chat with timed messages. If your chat is having a slow day your repeating messages can take over. Viewers usually don't want to see a chat full of the same few repeated messages and no real chatters. This setting will prevent the next repeating message from going to chat if a minimum amount of non bot messsages has not been met. You can adjust this setting up to 60 messages.
+This setting helps to prevent the bot from spamming the chat with timed messages. If your chat is having a slow day your repeating messages can take over. Viewers usually don't want to see a chat full of the same few repeated messages and no real chatters. This setting will prevent the next repeating message from going to chat if a minimum amount of non bot messages has not been met. You can adjust this setting up to 60 messages.
 
 ## Music
 

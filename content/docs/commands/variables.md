@@ -17,7 +17,7 @@ toc: true
 
 Variables are a string of text that represent data. They are used when a value of something may change. Variables start with a $ followed by the name of the variable. Some actions let you create temporary variables.
 
-Let's say you wanted a command to welcome the name of a user when they join your chat. You *could* make a individual welcome command for each user but there is an eaier way. You can use the $target variable which takes the first word after the command trigger.
+Let's say you wanted a command to welcome the name of a user when they join your chat. You *could* make a individual welcome command for each user but there is an easier way. You can use the $target variable which takes the first word after the command trigger.
 
 ### Example
 
@@ -124,7 +124,7 @@ Follow me on instagram at $instagram
 
 Returns the channels youtube URL. Must be in the Glimesh API.
 
-Join our yotuube channel at $youtube
+Join our Youtube channel at $youtube
 
 !yt | Join our youtube channel at https://youtube.com/test
 

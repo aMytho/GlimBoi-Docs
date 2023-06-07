@@ -20,7 +20,7 @@ toc: true
 
 Glimboi can play local music files on your system. Simply head to the music player and choose the folder or song to be played. It will start playing on that tab.
 
-> For folder playback it searches downward recursivly which means it scans other folders within the top folder.
+> For folder playback it searches downward recursively which means it scans other folders within the top folder.
 
 ### Music Commands
 

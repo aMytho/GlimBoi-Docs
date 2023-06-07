@@ -35,7 +35,7 @@ Save your settings when finished.
 
 Go to the guilds where you want to add a webhook. Select a channel to create a webhook for. Create a new webhook with the desired bot name and image. Copy the URL. **Keep this private!**
 
-Open glimboi settings tab. Head to webhooks. Paste the URL into the proper input. Enable guilded webhooks at the top of the page.
+Open Glimboi settings tab. Head to webhooks. Paste the URL into the proper input. Enable Guilded webhooks at the top of the page.
 
 (optional). Modify the default message if desired. Use $streamer to be replaced with the streamer name. The title and image (if live) will be automatically added to the media sent.
 The bottom option asks for confirmation before sending the webhook. We highly suggest this stays active. This prevents accidental notifications and allows you to modify the message for that specific stream if desired.

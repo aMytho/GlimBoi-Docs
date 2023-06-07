@@ -17,7 +17,7 @@ toc: true
 
 [Releases Page](https://github.com/aMytho/GlimBoi/releases/latest)
 
-Start by downloading the installation file for your plaltform (.exe for windows and .deb for linux). Windows users can run the .exe file and choose where the bot will be installed. Linux users will need a package manager that can run .deb files. GDebi will work for this.
+Start by downloading the installation file for your platform (.exe for windows and .deb for linux). Windows users can run the .exe file and choose where the bot will be installed. Linux users will need a package manager that can run .deb files. GDebi will work for this.
 
 > Windows users will likely see a warning since Glimboi is not registered with the Windows system.
 
@@ -35,7 +35,7 @@ You can now use GlimBoi to its full potential.
 
 ### Help
 
-Need some assistance? You can recieve support at -
+Need some assistance? You can receive support at -
 - [Twitter DM](https://twitter.com/MythoGM)
 - Discord DM Mytho#1108
 - [Glimesh.tv/Mytho](https://glimesh.tv/Mytho)

@@ -30,7 +30,7 @@ This is the file that will be sent to the overlay. Most audio, image, and video 
 
 #### Position
 
-The position determines which part of the overlay the element will show up in. You enter the x and y values for its position. It will allign the items to the top left of the media element. Audio media do not require any input. Choose the position that works best for you. You should have the overlay be full size of your stream for the best results.
+The position determines which part of the overlay the element will show up in. You enter the x and y values for its position. It will align the items to the top left of the media element. Audio media do not require any input. Choose the position that works best for you. You should have the overlay be full size of your stream for the best results.
 
 > If you used the old media system you will need to update the media position. By default all files are at 0,0.
 

@@ -20,7 +20,7 @@ Usually a simple restart fixes the problem. Reloading the bot (CTRL+R) may prove
 
 ## Why are commands not working?
 
-Ensure the cooldown is turned off or at a low rate. Check that you have the required rank to run the command. You may also need points to run the command. Most of these conditions will alert you in chat if they are not met. You can also check the state of the command (disabled or enabled) as well as the revelant triggers.
+Ensure the cooldown is turned off or at a low rate. Check that you have the required rank to run the command. You may also need points to run the command. Most of these conditions will alert you in chat if they are not met. You can also check the state of the command (disabled or enabled) as well as the relevant triggers.
 
 ## Why are my stream stats (viewcount, followers, and new subs) not updating?
 
@@ -35,7 +35,7 @@ Good question! Although most errors simply log an error to the console (shift+ct
 
 *Sad GlimBoi*
 
-Find the .exe file you use to start the bot. Right click, open file location. Run Uninstall.exe . If you wish to delete the bot data you must do so manually. The bot data can be found in the below folder. Deleting this data will completly remove all of your commands, users, ranks, etc. Everything will be lost **including** the backups!
+Find the .exe file you use to start the bot. Right click, open file location. Run Uninstall.exe . If you wish to delete the bot data you must do so manually. The bot data can be found in the below folder. Deleting this data will completely remove all of your commands, users, ranks, etc. Everything will be lost **including** the backups!
 
 %appdata%/Roaming/GlimBoi
 

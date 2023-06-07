@@ -32,7 +32,7 @@ It can help to select browse file, paste the URL into the filepath input at the 
 
 ### Overlay Settings
 
-The overlay recieves info from websockets. Glimboi hosts a websocket server on `localhost:3000`. The overlay connects to it and recieves messages from the server. The message usually contains a filepath to the media that needs to be activated as well as the various media settings associated with it. We can customize some details of the media server. You should only do this if you have to. This is common requirement for multi PC setups.
+The overlay receives info from websockets. Glimboi hosts a websocket server on `localhost:3000`. The overlay connects to it and receives messages from the server. The message usually contains a filepath to the media that needs to be activated as well as the various media settings associated with it. We can customize some details of the media server. You should only do this if you have to. This is common requirement for multi PC setups.
 
 Press the "Overlay Settings" button. This allows you to change the host and port of the server.
 
@@ -44,7 +44,7 @@ Whenever you make a change and save it you **must** reload the overlay in OBS. T
 
 ### Help
 
-Need some assistance? You can recieve support at -
+Need some assistance? You can receive support at -
 - [Twitter DM](https://twitter.com/MythoGM)
 - Discord DM Mytho#1108
 - [Glimesh.tv/Mytho](https://glimesh.tv/Mytho)
