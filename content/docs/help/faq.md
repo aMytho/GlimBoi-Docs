@@ -13,6 +13,11 @@ weight: 630
 toc: true
 ---
 
+## Since Glimesh is closing, what will happen to the bot and my data?
+In short, nothing! Glimboi will not be receiving any more updates. Your data will stay on your PC unless you delete it. If you plan on using a custom instance of Glimesh (or a self-hosted one), the bot will support that. However, updates to the custom instances may break compatibility with the bot.
+
+If you will not be using a custom instance, feel free to export your data(optional) and uninstall the bot. The data won't work with any other service. You may get some enjoyment from reading it though! While there are some symbols/code, most of it is human readable. Windows Notepad can read all of the files.
+
 ## How much does GlimBoi cost?
 
 GlimBoi is free and open source.
