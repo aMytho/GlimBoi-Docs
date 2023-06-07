@@ -1,5 +1,5 @@
 ---
-title: "CustomServer"
+title: "Custom Server"
 description: "Connect to a custom or self-hosted instance of Glimesh"
 lead: "Connect to a Custom Glimesh Instance"
 date: 2020-10-06T08:48:57+00:00
