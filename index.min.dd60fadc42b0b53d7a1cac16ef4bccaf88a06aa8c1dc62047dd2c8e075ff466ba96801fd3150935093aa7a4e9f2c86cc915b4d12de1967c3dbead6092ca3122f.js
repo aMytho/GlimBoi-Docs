@@ -467,7 +467,7 @@ The bottom option asks for confirmation before sending the webhook. We highly su
 <p>Returns how long the streamer has been live in minutes.</p>
 <p>You have been streaming for 100 minutes!</p>
 <p>!uptime | You have been streaming for 100 minutes!</p>
-`},{id:17,href:"https://glimboi.com/docs/intro/customserver/",title:"CustomServer",description:"Connect to a custom or self-hosted instance of Glimesh",content:`<h2 id="custom-instance">Custom Instance</h2>
+`},{id:17,href:"https://glimboi.com/docs/intro/customserver/",title:"Custom Server",description:"Connect to a custom or self-hosted instance of Glimesh",content:`<h2 id="custom-instance">Custom Instance</h2>
 <p>As of July 1st, Glimesh has closed. However, all code is open source. This means that you can run your own version of Glimesh, or connect to someone elses! Glimboi will work with all current versions of Glimesh, but future changes may break this compatibility.</p>
 <blockquote>
 <p>If you are reading this before the shutdown, Glimboi will still use the default Glimesh.tv URL.</p>
